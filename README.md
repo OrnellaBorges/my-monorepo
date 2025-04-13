@@ -175,10 +175,8 @@ Ce projet est sous MIT License. Voir le fichier LICENSE pour plus de détails.
 
 ### Instructions supplémentaires :
 
-- **Déploiement** : Tu peux ajouter une section pour décrire comment déployer le projet sur des environnements de production si tu le souhaites (par exemple, sur Heroku, AWS, ou un autre fournisseur).
-- **Améliorations futures** : Si tu as des fonctionnalités à ajouter ou des améliorations en tête, une section dédiée pour les **TODOs** ou **roadmap** pourrait être utile.
-
-Une fois le `README.md` créé et modifié selon tes préférences, tu peux le committer et le pousser sur GitHub pour que les autres puissent le voir.
+- **Déploiement**
+- **Améliorations futures** :
 
 ```bash
 
