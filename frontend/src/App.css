@@ -40,3 +40,43 @@
 .read-the-docs {
   color: #888;
 }
+*/ .App {
+  text-align: center;
+  font-family: "Arial", sans-serif;
+}
+
+.header {
+  margin-top: 50px;
+}
+
+.header h1 {
+  font-size: 3rem;
+  color: #333;
+}
+
+.tech-stack {
+  margin-top: 30px;
+}
+
+.tech-stack h2 {
+  font-size: 2rem;
+}
+
+.tech-stack ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.tech-stack li {
+  font-size: 1.2rem;
+  margin: 5px 0;
+}
+
+.card {
+  margin-top: 20px;
+}
+
+.logo {
+  height: 40px;
+  margin: 0 15px;
+}
