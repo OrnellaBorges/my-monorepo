@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    "outDir": "./dist", // Le répertoire où seront générés les fichiers compilés
+    "rootDir": "./src", // Le répertoire racine contenant tes fichiers source
+    "esModuleInterop": true, // Permet une interopérabilité avec les modules ES
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
+  },
+  "include": [
+    "src/**/*.ts" // Inclure tous les fichiers .ts dans le dossier src
+  ],
+  "exclude": [
+    "dist" // Exclure le dossier dist (les fichiers compilés)
+  ]
+}
